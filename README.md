@@ -3,10 +3,12 @@
 This project demonstrates a simple donation wallet.
 
 Available tasks:
+```shell
 npx hardhat donate
 npx hardhat withdrawMoney
 npx hardhat donatorsList
 npx hardhat donationSumByUser
+```
 
 Try running some of the following tasks:
 
@@ -19,6 +21,3 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-# DonationWallet
-# DonationWallet
-# DonationWallet
